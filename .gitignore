@@ -4,3 +4,4 @@
 .ds_store
 *.pt
 runs
+.venv
